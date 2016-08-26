@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Record</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_record">list_record</string>
+</resources>
